@@ -1,0 +1,87 @@
+table {
+  width: 100%;
+  height: 100%;
+}
+
+td, th {
+  border: 1px solid black;
+  position: relative;
+  text-align: center;
+}
+
+h2 {
+  margin:0;
+  font-size: 2vw;
+}
+
+.Title {
+  text-align: center;
+  position: fixed;
+}
+
+.nborder {
+  border: none;
+}
+
+.number{
+  text-align: left;
+  margin: 0;
+  bottom: 0;
+}
+
+
+.masse {
+  text-align: right;
+  margin: 0;
+  top: 0;
+  right: 0;
+  margin-right: 3px;
+}
+
+td p {
+  font-size: 0.7vw;
+}
+
+.Vert {
+  background-color: Lime;
+}
+
+.Rouge {
+  background-color: red;
+}
+
+.Blue {
+  background-color: Aqua;
+}
+
+.Rose {
+  background-color: Hotpink;
+}
+
+.Belge {
+  background-color: BlanchedAlmond;
+}
+
+.Gris {
+  background-color: Gray;
+}
+
+.Jaune {
+  background-color: Yellow;
+}
+
+.Verte {
+  background-color: DarkSeaGreen;
+}
+
+.Grise {
+  background-color: WhiteSmoke;
+}
+
+.Violet {
+  background-color: Orchid;
+}
+
+.Violeta {
+  background-color: Plum;
+}
